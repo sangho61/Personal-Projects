@@ -4,7 +4,7 @@ import csv
 from bs4 import BeautifulSoup
 
 m1 ={'No':[],'Title':[],'Writer':[], 'Date':[], 'Status':[]}
-for i in range(10):
+for i in range(510,610):
     url = 'https://www.data.go.kr/information/qna/index.do?currentPage='
     # html = urllib.request.urlopen(url)
     n= str(i+1)
