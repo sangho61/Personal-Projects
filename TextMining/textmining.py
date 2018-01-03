@@ -31,7 +31,7 @@ def write_csv(text, file_name ="mining.csv"):
     transfer = csv.DictWriter(output, fieldnames = col_name, delimiter=",")
     transfer.writeheader()
     for i in range(len(text['No'])):
-        transfer.writerow({"No":text['No'][i], "Title": text['Title'][i], "Writer": text['Title'][i], "Date": text['Date'][i], "Status": text['Status'][i]})
+        transfer.writerow({"No":text['No'][i], "Title": text['Title'][i], "Writer": text['Writer'][i], "Date": text['Date'][i], "Status": text['Status'][i]})
     output.close()
 
 
