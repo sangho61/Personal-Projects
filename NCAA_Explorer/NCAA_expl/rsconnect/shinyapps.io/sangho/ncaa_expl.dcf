@@ -1,0 +1,10 @@
+name: ncaa_expl
+title:
+username:
+account: sangho
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 297703
+bundleId: 1263954
+url: https://sangho.shinyapps.io/ncaa_expl/
+when: 1520830502.86342

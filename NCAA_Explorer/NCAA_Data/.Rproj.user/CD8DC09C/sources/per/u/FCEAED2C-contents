@@ -1,0 +1,11 @@
+massey <- read.csv('MasseyOrdinals.csv')
+head(massey)
+
+install.packages('data.table')
+library(data.table)
+library(dplyr)
+cities <- fread("../NCAA/DataFiles/Cities.csv")
+
+head(cities)
+cities <- read.csv('../NCAA/DataFiles/Cities.csv')
+head(cities)

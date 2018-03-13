@@ -1,0 +1,9 @@
+{
+    "path" : "~/Documents/NCAA/DataFiles",
+    "sortOrder" : [
+        {
+            "ascending" : true,
+            "columnIndex" : 2
+        }
+    ]
+}

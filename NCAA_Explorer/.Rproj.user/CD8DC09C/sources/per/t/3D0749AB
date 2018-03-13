@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1520840930921.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1757069522",
+    "id" : "3D0749AB",
+    "lastKnownWriteTime" : 1520876640,
+    "last_content_update" : 1520876640513,
+    "path" : "~/workspace/Personal-Projects/shiny/NCAA_explore/ui.R",
+    "project_path" : "NCAA_explore/ui.R",
+    "properties" : {
+        "cursorPosition" : "4,19",
+        "scrollLine" : "0"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
